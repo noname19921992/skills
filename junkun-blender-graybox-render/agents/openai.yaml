@@ -1,0 +1,4 @@
+interface:
+  display_name: "Junkun Blender Graybox Render"
+  short_description: "Local Blender blockouts, animation, cameras, and previs"
+  default_prompt: "Use $junkun-blender-graybox-render to inspect and connect to a trusted local Blender instance, create editable blockouts and shot previs, and verify the rendered results."

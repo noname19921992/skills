@@ -1,0 +1,4 @@
+interface:
+  display_name: "junkun seedance2.5 prompter"
+  short_description: "Natural performance prompts for Seedance 2.5 and MiniMax H3"
+  default_prompt: "Use $junkun-seedance2-5-prompter to rewrite this idea as a video prompt with authentic human performance."
